@@ -1,0 +1,39 @@
+h1{
+    background-color: rgb(151, 52, 52);
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 12px;
+   padding-bottom: 4px;
+   box-shadow: 3px 3px 10px; margin-bottom: 60px;
+}
+p{
+    margin-left: 80px;
+   
+    margin-bottom: 10px;
+}
+input{
+    margin-left: 50px;
+}
+body{
+    background-color: moccasin;
+}
+#Resultado{
+    text-shadow: orangered;
+}
+h2{
+margin-left: 80px;
+
+}
+h3{
+    text-align: center;
+    background-color: rgb(151, 52, 52);
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 70px;
+    border-radius: 12px;
+   padding-bottom: 4px;
+   padding-top: 3px;
+   box-shadow: 3px 3px 10px;
+   margin-bottom: 25px;
+}

@@ -1,0 +1,22 @@
+
+function compararpreço(){
+    var valor = 0
+    var valor = document.getElementById("preço").value
+
+    if (valor >= 8 ) {
+        window.alert("Price is very high, please choice a provider more cheap")
+        document.getElementById("escrever").innerHTML= `Recomendação de bons fornecedores:Faz. Decisão, Faz. Morena e Faz. Pianura`
+    }else{
+        window.alert("Price is great for the actual situation")
+        document.querySelectorAll("escrever").innerHTML= ` `
+    }
+    }
+    document.addEventListener("keypress", function(compararpreço) {
+        if(compararpreço.key === 'Enter') {
+        
+            var btn = document.getElementById("botão");
+          
+          btn.click();
+        
+        }
+      });

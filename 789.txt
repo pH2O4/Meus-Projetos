@@ -1,0 +1,10 @@
+function compararpreço(){
+    var valor = 0
+    var valor = document.getElementById("preço").value
+
+    if (valor > 3) {
+        window.alert("Preço muito elevado, escolher fornecedor mais barato")
+    }else{
+        window.alert("Preço ótimo para situaçãoa tual")
+    }
+    }

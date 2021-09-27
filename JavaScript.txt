@@ -1,0 +1,17 @@
+
+function DeixarMarcado(){
+  document.getElementById("conferirOrganizar").innerHTML= "Feito!"
+}
+
+function DeixarMarcado2(){
+  document.getElementById("conferirOrganizar2").innerHTML= "Feito!"
+}
+function DeixarMarcado3(){
+  document.getElementById("conferirOrganizar3").innerHTML= "Feito!"
+}
+function DeixarMarcado4(){
+  document.getElementById("conferirOrganizar4").innerHTML= "Feito!"
+}
+function DeixarMarcado5(){
+  document.getElementById("conferirOrganizar5").innerHTML= "Feito!"
+}
